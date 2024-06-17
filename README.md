@@ -1,4 +1,4 @@
-# EDA-on-Laon-s-Data
+# EDA-on-Loan's-Data
 
 ![Exploratory_Data_Analysis](https://github.com/Shankarrai2171/EDA-on-Laon-s-Data/assets/164284515/28b490bb-5d24-4174-9c79-5d1b9527a58c)
 
